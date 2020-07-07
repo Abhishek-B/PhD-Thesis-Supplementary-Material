@@ -1,2 +1,4 @@
-# PhD_Supplementary
-Supplimentary material from my PhD thesis 
+# PhD Supplementary
+Supplimentary material from my PhD thesis titled "Non-negative Polynomials, Sums of Squares & The Moment Problem".
+
+
